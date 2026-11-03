@@ -1,0 +1,11 @@
+name=蘇清的音乐专辑
+id=SuQingMusicCollections
+author=蘇清
+modversion=1.1.0
+require=truemusic
+loadModAfter=truemusic,Codex_TrueMusic_Headphones_4221,GIRLS BAND CRY Music,Poppin'Party music b42,Anime music b42,Roselia Music
+versionMin=42.21
+versionMax=42.21
+description=单人音乐合集：在原磁带与黑胶刷新处搜刮歌手精选专辑，或跨歌手整理已有单曲为自制专辑；同介质即可，重量等于原版单张。歌单整合进设备选项，支持点播、顺序、循环与随机。修复中日文标题编码，保留旧合集及来源。随身听使用本地耳机收听，不产生公共播放记录和引怪声事件。复用现有音源，不修改Workshop文件。
+poster=poster.png
+icon=icon.png

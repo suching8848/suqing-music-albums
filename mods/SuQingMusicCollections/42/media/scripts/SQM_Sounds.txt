@@ -1,0 +1,6940 @@
+/* Original audio references only. Private aliases are 2D, with source clip gain. */
+module SQMusic
+{
+    sound SQM_Private_Cassettec1
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/c1.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Vinylc1
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/c1.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Cassettec2
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/c2.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Vinylc2
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/c2.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Cassettec3
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/c3.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Vinylc3
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/c3.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Cassettec4
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/c4.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Vinylc4
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/c4.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Cassettec5
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/c5.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Vinylc5
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/c5.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Cassettec6
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/c6.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Vinylc6
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/c6.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Cassettec7
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/c7.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Vinylc7
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/c7.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Cassettec8
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/c8.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Vinylc8
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/c8.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Cassettec9
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/c9.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Vinylc9
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/c9.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Cassettec10
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/c10.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Vinylc10
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/c10.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Cassettec11
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/c11.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Vinylc11
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/c11.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Cassettec12
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/c12.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Vinylc12
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/c12.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Cassettec13
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/c13.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Vinylc13
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/c13.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Cassettec14
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/c14.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Vinylc14
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/c14.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Cassettec15
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/c15.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Vinylc15
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/c15.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Cassettec16
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/c16.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Vinylc16
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/c16.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Cassettec17
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/c17.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Vinylc17
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/c17.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Cassettec18
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/c18.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Vinylc18
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/c18.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Cassettec19
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/c19.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Vinylc19
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/c19.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Cassettec20
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/c20.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Vinylc20
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/c20.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Cassettec21
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/c21.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Vinylc21
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/c21.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Cassettec22
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/c22.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Vinylc22
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/c22.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Cassettec23
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/c23.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Vinylc23
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/c23.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Cassettec24
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/c24.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Vinylc24
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/c24.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Cassettec25
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/c25.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Vinylc25
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/c25.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Cassettec26
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/c26.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Vinylc26
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/c26.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Cassettec27
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/c27.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Vinylc27
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/c27.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Cassettec28
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/c28.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Vinylc28
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/c28.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Cassettec29
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/c29.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Vinylc29
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/c29.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Cassettec30
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/c30.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Vinylc30
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/c30.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Cassettec31
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/c31.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Vinylc31
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/c31.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Cassettec32
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/c32.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Vinylc32
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/c32.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Cassettec33
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/c33.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Vinylc33
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/c33.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Cassettec34
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/c34.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Vinylc34
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/c34.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Cassettec35
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/c35.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Vinylc35
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/c35.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Cassettec36
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/c36.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Vinylc36
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/c36.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Cassettec37
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/c37.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_Vinylc37
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/c37.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP1
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP1.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP1
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP1.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP2
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP2.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP2
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP2.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP3
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP3.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP3
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP3.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP4
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP4.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP4
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP4.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP5
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP5.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP5
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP5.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP6
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP6.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP6
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP6.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP7
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP7.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP7
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP7.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP8
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP8.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP8
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP8.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP9
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP9.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP9
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP9.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP10
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP10.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP10
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP10.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP11
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP11.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP11
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP11.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP12
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP12.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP12
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP12.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP13
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP13.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP13
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP13.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP14
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP14.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP14
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP14.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP15
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP15.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP15
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP15.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP16
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP16.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP16
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP16.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP17
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP17.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP17
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP17.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP18
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP18.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP18
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP18.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP19
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP19.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP19
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP19.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP20
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP20.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP20
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP20.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP21
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP21.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP21
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP21.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP22
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP22.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP22
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP22.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP23
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP23.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP23
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP23.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP24
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP24.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP24
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP24.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP25
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP25.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP25
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP25.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP26
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP26.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP26
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP26.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP27
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP27.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP27
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP27.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP28
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP28.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP28
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP28.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP29
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP29.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP29
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP29.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP30
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP30.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP30
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP30.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP31
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP31.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP31
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP31.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP32
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP32.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP32
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP32.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP33
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP33.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP33
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP33.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP34
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP34.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP34
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP34.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP35
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP35.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP35
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP35.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP36
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP36.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP36
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP36.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP37
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP37.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP37
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP37.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP38
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP38.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP38
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP38.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP39
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP39.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP39
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP39.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP40
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP40.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP40
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP40.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP41
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP41.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP41
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP41.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP42
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP42.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP42
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP42.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP43
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP43.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP43
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP43.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP44
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP44.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP44
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP44.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP45
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP45.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP45
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP45.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP46
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP46.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP46
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP46.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP47
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP47.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP47
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP47.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP48
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP48.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP48
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP48.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP49
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP49.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP49
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP49.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP50
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP50.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP50
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP50.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP51
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP51.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP51
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP51.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP52
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP52.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP52
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP52.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP53
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP53.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP53
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP53.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP54
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP54.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP54
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP54.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP55
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP55.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP55
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP55.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP56
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP56.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP56
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP56.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP57
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP57.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP57
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP57.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP58
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP58.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP58
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP58.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP59
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP59.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP59
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP59.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP60
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP60.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP60
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP60.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP61
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP61.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP61
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP61.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP62
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP62.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP62
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP62.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP63
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP63.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP63
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP63.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP64
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP64.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP64
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP64.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP65
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP65.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP65
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP65.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP66
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP66.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP66
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP66.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP67
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP67.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP67
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP67.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP68
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP68.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP68
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP68.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP69
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP69.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP69
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP69.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP70
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP70.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP70
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP70.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP71
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP71.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP71
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP71.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP72
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP72.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP72
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP72.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP73
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP73.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP73
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP73.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP74
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP74.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP74
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP74.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP76
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP76.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP76
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP76.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP77
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP77.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP77
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP77.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP78
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP78.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP78
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP78.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP79
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP79.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP79
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP79.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP80
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP80.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP80
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP80.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP81
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP81.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP81
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP81.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP82
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP82.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP82
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP82.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassettePPP83
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/PPP83.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylPPP83
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/PPP83.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM1
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM1.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM1
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM1.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM2
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM2.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM2
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM2.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM3
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM3.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM3
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM3.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM4
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM4.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM4
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM4.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM5
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM5.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM5
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM5.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM6
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM6.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM6
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM6.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM7
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM7.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM7
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM7.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM8
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM8.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM8
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM8.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM9
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM9.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM9
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM9.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM10
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM10.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM10
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM10.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM11
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM11.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM11
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM11.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM12
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM12.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM12
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM12.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM13
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM13.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM13
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM13.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM14
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM14.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM14
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM14.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM15
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM15.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM15
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM15.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM16
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM16.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM16
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM16.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM17
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM17.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM17
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM17.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM18
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM18.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM18
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM18.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM19
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM19.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM19
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM19.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM20
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM20.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM20
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM20.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM21
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM21.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM21
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM21.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM22
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM22.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM22
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM22.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM23
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM23.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM23
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM23.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM24
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM24.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM24
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM24.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM25
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM25.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM25
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM25.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM26
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM26.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM26
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM26.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM27
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM27.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM27
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM27.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM28
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM28.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM28
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM28.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM29
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM29.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM29
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM29.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM30
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM30.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM30
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM30.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM31
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM31.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM31
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM31.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM32
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM32.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM32
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM32.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM33
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM33.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM33
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM33.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM34
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM34.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM34
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM34.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM35
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM35.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM35
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM35.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM36
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM36.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM36
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM36.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM37
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM37.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM37
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM37.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM38
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM38.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM38
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM38.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM39
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM39.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM39
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM39.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM40
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM40.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM40
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM40.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM41
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM41.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM41
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM41.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM42
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM42.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM42
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM42.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM43
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM43.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM43
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM43.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM44
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM44.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM44
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM44.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM45
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM45.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM45
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM45.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM46
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM46.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM46
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM46.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM47
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM47.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM47
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM47.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM48
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM48.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM48
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM48.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM49
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM49.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM49
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM49.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM50
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM50.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM50
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM50.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM51
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM51.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM51
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM51.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM52
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM52.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM52
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM52.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM53
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM53.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM53
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM53.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM54
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM54.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM54
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM54.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM55
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM55.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM55
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM55.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM56
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM56.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM56
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM56.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM57
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM57.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM57
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM57.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM58
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM58.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM58
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM58.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM59
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM59.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM59
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM59.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM60
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM60.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM60
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM60.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM61
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM61.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM61
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM61.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM62
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM62.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM62
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM62.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM63
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM63.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM63
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM63.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM64
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM64.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM64
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM64.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM65
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM65.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM65
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM65.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM66
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM66.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM66
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM66.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM67
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM67.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM67
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM67.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM68
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM68.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM68
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM68.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM69
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM69.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM69
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM69.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteAM70
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/AM70.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylAM70
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/AM70.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteSM1
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/SM1.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylSM1
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/SM1.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteSM2
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/SM2.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylSM2
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/SM2.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR1
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R1.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR1
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R1.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR2
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R2.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR2
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R2.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR3
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R3.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR3
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R3.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR4
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R4.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR4
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R4.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR5
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R5.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR5
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R5.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR6
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R6.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR6
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R6.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR7
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R7.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR7
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R7.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR8
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R8.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR8
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R8.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR9
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R9.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR9
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R9.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR10
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R10.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR10
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R10.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR11
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R11.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR11
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R11.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR12
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R12.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR12
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R12.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR13
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R13.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR13
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R13.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR14
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R14.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR14
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R14.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR15
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R15.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR15
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R15.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR16
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R16.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR16
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R16.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR17
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R17.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR17
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R17.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR18
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R18.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR18
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R18.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR19
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R19.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR19
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R19.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR20
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R20.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR20
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R20.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR21
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R21.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR21
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R21.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR22
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R22.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR22
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R22.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR23
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R23.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR23
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R23.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR24
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R24.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR24
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R24.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR25
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R25.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR25
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R25.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR26
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R26.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR26
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R26.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR27
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R27.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR27
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R27.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR28
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R28.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR28
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R28.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR29
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R29.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR29
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R29.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR30
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R30.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR30
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R30.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR31
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R31.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR31
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R31.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR32
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R32.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR32
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R32.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR33
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R33.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR33
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R33.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR34
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R34.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR34
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R34.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR35
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R35.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR35
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R35.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR36
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R36.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR36
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R36.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR37
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R37.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR37
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R37.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR38
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R38.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR38
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R38.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR39
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R39.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR39
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R39.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR40
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R40.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR40
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R40.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR41
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R41.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR41
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R41.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR42
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R42.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR42
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R42.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR43
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R43.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR43
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R43.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR44
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R44.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR44
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R44.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR45
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R45.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR45
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R45.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR46
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R46.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR46
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R46.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR47
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R47.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR47
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R47.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR48
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R48.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR48
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R48.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR49
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R49.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR49
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R49.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR50
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R50.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR50
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R50.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR51
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R51.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR51
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R51.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR52
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R52.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR52
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R52.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR53
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R53.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR53
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R53.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR54
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R54.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR54
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R54.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR55
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R55.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR55
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R55.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR56
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R56.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR56
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R56.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR57
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R57.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR57
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R57.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR58
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R58.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR58
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R58.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR59
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R59.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR59
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R59.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR60
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R60.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR60
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R60.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR61
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R61.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR61
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R61.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR62
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R62.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR62
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R62.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR63
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R63.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR63
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R63.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR64
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R64.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR64
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R64.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR65
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R65.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR65
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R65.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR66
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R66.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR66
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R66.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR67
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R67.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR67
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R67.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR68
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R68.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR68
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R68.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR69
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R69.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR69
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R69.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR70
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R70.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR70
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R70.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR71
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R71.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR71
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R71.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR72
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R72.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR72
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R72.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR73
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R73.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR73
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R73.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR74
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R74.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR74
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R74.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR75
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R75.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR75
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R75.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR76
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R76.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR76
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R76.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR77
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R77.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR77
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R77.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR78
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R78.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR78
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R78.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR79
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R79.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR79
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R79.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR80
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R80.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR80
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R80.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR81
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R81.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR81
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R81.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR82
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R82.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR82
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R82.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR83
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R83.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR83
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R83.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR84
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R84.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR84
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R84.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR85
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R85.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR85
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R85.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR86
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R86.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR86
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R86.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR87
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R87.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR87
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R87.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR88
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R88.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR88
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R88.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR89
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R89.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR89
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R89.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR90
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R90.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR90
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R90.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR91
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R91.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR91
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R91.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR92
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R92.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR92
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R92.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR93
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R93.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR93
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R93.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR94
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R94.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR94
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R94.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR95
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R95.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR95
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R95.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR96
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R96.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR96
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R96.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteR97
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCBoombox/R97.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylR97
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/yourMusic/TCVinylplayer/R97.ogg,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_CassetteMainTheme
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/sound/TCMainTheme.wav,
+            volume = 1.0,
+        }
+    }
+    sound SQM_Private_VinylMainTheme
+    {
+        category = True Music,
+        master = Ambient,
+        is3D = false,
+        loop = false,
+        clip
+        {
+            file = media/sound/TCMainTheme.wav,
+            volume = 1.0,
+        }
+    }
+}

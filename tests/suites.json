@@ -1,0 +1,160 @@
+[
+  {
+    "name": "PRODUCTION CATALOG AND CORE",
+    "scripts": [
+      "tests/fixture.lua",
+      "validation/registry.lua",
+      "mods/SuQingMusicCollections/42/media/lua/shared/SQMusic/Catalog.lua",
+      "mods/SuQingMusicCollections/42/media/lua/shared/SQMusic/Text.lua",
+      "mods/SuQingMusicCollections/42/media/lua/shared/SQMusic/Core.lua",
+      "tests/core.lua"
+    ]
+  },
+  {
+    "name": "PRODUCTION PLAYBACK WITH REAL UPSTREAM ACTIONS AND TICK",
+    "scripts": [
+      "tests/fixture.lua",
+      "validation/registry.lua",
+      "D:/steam/steamapps/common/ProjectZomboid/media/lua/shared/ISBaseObject.lua",
+      "D:/steam/steamapps/common/ProjectZomboid/media/lua/shared/TimedActions/ISBaseTimedAction.lua",
+      "D:/steam/steamapps/workshop/content/108600/3397198968/mods/TrueMusic_b42/42/media/lua/shared/TCMusicDefenitions.lua",
+      "D:/steam/steamapps/workshop/content/108600/3397198968/mods/TrueMusic_b42/42/media/lua/client/TCMusicClientFunctions.lua",
+      "D:/steam/steamapps/workshop/content/108600/3397198968/mods/TrueMusic_b42/42/media/lua/client/RadioCom/ISTCBoomboxAction.lua",
+      "D:/steam/steamapps/workshop/content/108600/3397198968/mods/TrueMusic_b42/42/media/lua/client/TCTickCheckMusic.lua",
+      "C:/Users/15792/Zomboid/mods/TrueMusicHeadphones_4221_LocalFix/42/media/lua/client/TrueMusicHeadphonesFix/Headphones.lua",
+      "mods/SuQingMusicCollections/42/media/lua/shared/SQMusic/Catalog.lua",
+      "mods/SuQingMusicCollections/42/media/lua/shared/SQMusic/Text.lua",
+      "mods/SuQingMusicCollections/42/media/lua/shared/SQMusic/Core.lua",
+      "mods/SuQingMusicCollections/42/media/lua/client/SQMusic/Playback.lua",
+      "tests/playback.lua"
+    ]
+  },
+  {
+    "name": "PRODUCTION PLAYBACK WITHOUT OPTIONAL HEADPHONE PATCH",
+    "scripts": [
+      "tests/fixture.lua",
+      "validation/registry.lua",
+      "D:/steam/steamapps/common/ProjectZomboid/media/lua/shared/ISBaseObject.lua",
+      "D:/steam/steamapps/common/ProjectZomboid/media/lua/shared/TimedActions/ISBaseTimedAction.lua",
+      "D:/steam/steamapps/workshop/content/108600/3397198968/mods/TrueMusic_b42/42/media/lua/shared/TCMusicDefenitions.lua",
+      "D:/steam/steamapps/workshop/content/108600/3397198968/mods/TrueMusic_b42/42/media/lua/client/TCMusicClientFunctions.lua",
+      "D:/steam/steamapps/workshop/content/108600/3397198968/mods/TrueMusic_b42/42/media/lua/client/RadioCom/ISTCBoomboxAction.lua",
+      "D:/steam/steamapps/workshop/content/108600/3397198968/mods/TrueMusic_b42/42/media/lua/client/TCTickCheckMusic.lua",
+      "mods/SuQingMusicCollections/42/media/lua/shared/SQMusic/Catalog.lua",
+      "mods/SuQingMusicCollections/42/media/lua/shared/SQMusic/Text.lua",
+      "mods/SuQingMusicCollections/42/media/lua/shared/SQMusic/Core.lua",
+      "mods/SuQingMusicCollections/42/media/lua/client/SQMusic/Playback.lua",
+      "tests/playback.lua",
+      "tests/optional_headphones.lua"
+    ]
+  },
+  {
+    "name": "PRODUCTION UI ACTIONS AND LOOT",
+    "scripts": [
+      "tests/fixture.lua",
+      "validation/registry.lua",
+      "D:/steam/steamapps/common/ProjectZomboid/media/lua/shared/ISBaseObject.lua",
+      "D:/steam/steamapps/common/ProjectZomboid/media/lua/shared/TimedActions/ISBaseTimedAction.lua",
+      "D:/steam/steamapps/workshop/content/108600/3397198968/mods/TrueMusic_b42/42/media/lua/shared/TCMusicDefenitions.lua",
+      "D:/steam/steamapps/workshop/content/108600/3397198968/mods/TrueMusic_b42/42/media/lua/client/TCMusicClientFunctions.lua",
+      "D:/steam/steamapps/workshop/content/108600/3397198968/mods/TrueMusic_b42/42/media/lua/client/RadioCom/ISTCBoomboxAction.lua",
+      "D:/steam/steamapps/workshop/content/108600/3397198968/mods/TrueMusic_b42/42/media/lua/client/TCTickCheckMusic.lua",
+      "C:/Users/15792/Zomboid/mods/TrueMusicHeadphones_4221_LocalFix/42/media/lua/client/TrueMusicHeadphonesFix/Headphones.lua",
+      "mods/SuQingMusicCollections/42/media/lua/shared/SQMusic/Catalog.lua",
+      "mods/SuQingMusicCollections/42/media/lua/shared/SQMusic/Text.lua",
+      "mods/SuQingMusicCollections/42/media/lua/shared/SQMusic/Core.lua",
+      "mods/SuQingMusicCollections/42/media/lua/client/SQMusic/Playback.lua",
+      "tests/ui_fixture.lua",
+      "mods/SuQingMusicCollections/42/media/lua/client/SQMusic/Window.lua",
+      "mods/SuQingMusicCollections/42/media/lua/client/SQMusic/ExchangeAction.lua",
+      "mods/SuQingMusicCollections/42/media/lua/client/SQMusic/Context.lua",
+      "mods/SuQingMusicCollections/42/media/lua/server/SQMusic/Loot.lua",
+      "tests/ui_loot.lua"
+    ]
+  },
+  {
+    "name": "WORLD TAKEOVER AND ASYNCHRONOUS VEHICLE COMMANDS",
+    "scripts": [
+      "tests/fixture.lua",
+      "validation/registry.lua",
+      "D:/steam/steamapps/common/ProjectZomboid/media/lua/shared/ISBaseObject.lua",
+      "D:/steam/steamapps/common/ProjectZomboid/media/lua/shared/TimedActions/ISBaseTimedAction.lua",
+      "D:/steam/steamapps/workshop/content/108600/3397198968/mods/TrueMusic_b42/42/media/lua/shared/TCMusicDefenitions.lua",
+      "D:/steam/steamapps/workshop/content/108600/3397198968/mods/TrueMusic_b42/42/media/lua/client/TCMusicClientFunctions.lua",
+      "D:/steam/steamapps/workshop/content/108600/3397198968/mods/TrueMusic_b42/42/media/lua/client/RadioCom/ISTCBoomboxAction.lua",
+      "D:/steam/steamapps/workshop/content/108600/3397198968/mods/TrueMusic_b42/42/media/lua/client/TCTickCheckMusic.lua",
+      "C:/Users/15792/Zomboid/mods/TrueMusicHeadphones_4221_LocalFix/42/media/lua/client/TrueMusicHeadphonesFix/Headphones.lua",
+      "mods/SuQingMusicCollections/42/media/lua/shared/SQMusic/Catalog.lua",
+      "mods/SuQingMusicCollections/42/media/lua/shared/SQMusic/Text.lua",
+      "mods/SuQingMusicCollections/42/media/lua/shared/SQMusic/Core.lua",
+      "mods/SuQingMusicCollections/42/media/lua/client/SQMusic/Playback.lua",
+      "tests/world_vehicle_fixture.lua",
+      "D:/steam/steamapps/workshop/content/108600/3397198968/mods/TrueMusic_b42/42/media/lua/server/TCServerCommands.lua",
+      "tests/world_vehicle.lua"
+    ]
+  },
+  {
+    "name": "REAL KAH LUA UTF8 ORACLE",
+    "scripts": [
+      "tests/fixture.lua",
+      "validation/registry.lua",
+      "mods/SuQingMusicCollections/42/media/lua/shared/SQMusic/Catalog.lua",
+      "mods/SuQingMusicCollections/42/media/lua/shared/SQMusic/Text.lua",
+      "mods/SuQingMusicCollections/42/media/lua/shared/SQMusic/Core.lua",
+      "tests/utf8_oracle.lua"
+    ]
+  },
+  {
+    "name": "REAL NATIVE DEVICE WINDOW LIFECYCLE",
+    "scripts": [
+      "tests/fixture.lua",
+      "validation/registry.lua",
+      "D:/steam/steamapps/common/ProjectZomboid/media/lua/shared/ISBaseObject.lua",
+      "D:/steam/steamapps/common/ProjectZomboid/media/lua/shared/TimedActions/ISBaseTimedAction.lua",
+      "D:/steam/steamapps/workshop/content/108600/3397198968/mods/TrueMusic_b42/42/media/lua/shared/TCMusicDefenitions.lua",
+      "D:/steam/steamapps/workshop/content/108600/3397198968/mods/TrueMusic_b42/42/media/lua/client/TCMusicClientFunctions.lua",
+      "D:/steam/steamapps/workshop/content/108600/3397198968/mods/TrueMusic_b42/42/media/lua/client/RadioCom/ISTCBoomboxAction.lua",
+      "D:/steam/steamapps/workshop/content/108600/3397198968/mods/TrueMusic_b42/42/media/lua/client/TCTickCheckMusic.lua",
+      "C:/Users/15792/Zomboid/mods/TrueMusicHeadphones_4221_LocalFix/42/media/lua/client/TrueMusicHeadphonesFix/Headphones.lua",
+      "mods/SuQingMusicCollections/42/media/lua/shared/SQMusic/Catalog.lua",
+      "mods/SuQingMusicCollections/42/media/lua/shared/SQMusic/Text.lua",
+      "mods/SuQingMusicCollections/42/media/lua/shared/SQMusic/Core.lua",
+      "mods/SuQingMusicCollections/42/media/lua/client/SQMusic/Playback.lua",
+      "tests/native_ui_java_fixture.lua",
+      "D:/steam/steamapps/common/ProjectZomboid/media/lua/client/ISUI/Layout/ISBounds.lua",
+      "D:/steam/steamapps/common/ProjectZomboid/media/lua/client/ISUI/Layout/ISDock.lua",
+      "D:/steam/steamapps/common/ProjectZomboid/media/lua/client/ISUI/Style/UIHorizontalAlignment.lua",
+      "D:/steam/steamapps/common/ProjectZomboid/media/lua/client/ISUI/ISUIElement.lua",
+      "D:/steam/steamapps/common/ProjectZomboid/media/lua/client/ISUI/ISPanel.lua",
+      "D:/steam/steamapps/common/ProjectZomboid/media/lua/client/ISUI/ISPanelJoypad.lua",
+      "D:/steam/steamapps/common/ProjectZomboid/media/lua/client/ISUI/ISButton.lua",
+      "D:/steam/steamapps/common/ProjectZomboid/media/lua/client/ISUI/ISResizeWidget.lua",
+      "D:/steam/steamapps/common/ProjectZomboid/media/lua/client/ISUI/ISCollapsableWindow.lua",
+      "D:/steam/steamapps/common/ProjectZomboid/media/lua/client/ISUI/ISScrollBar.lua",
+      "D:/steam/steamapps/common/ProjectZomboid/media/lua/client/RadioCom/RadioWindowModules/RWMPanel.lua",
+      "D:/steam/steamapps/common/ProjectZomboid/media/lua/client/RadioCom/RadioWindowModules/RWMElement.lua",
+      "tests/native_ui_dependencies.lua",
+      "D:/steam/steamapps/common/ProjectZomboid/media/lua/client/ISUI/ISScrollingListBox.lua",
+      "D:/steam/steamapps/common/ProjectZomboid/media/lua/client/ISUI/ISComboBox.lua",
+      "D:/steam/steamapps/common/ProjectZomboid/media/lua/client/RadioCom/ISRadioWindow.lua",
+      "D:/steam/steamapps/workshop/content/108600/3397198968/mods/TrueMusic_b42/42/media/lua/client/RadioCom/ISTCBoomboxWindow.lua",
+      "D:/steam/steamapps/workshop/content/108600/3397198968/mods/TrueMusic_b42/42/media/lua/client/RadioCom/ISTCRadioWindow.lua",
+      "mods/SuQingMusicCollections/42/media/lua/client/SQMusic/PlaylistPanel.lua",
+      "mods/SuQingMusicCollections/42/media/lua/client/SQMusic/Window.lua",
+      "tests/native_ui.lua"
+    ]
+  },
+  {
+    "name": "PRODUCTION LOOT WITH REAL NATIVE DISTRIBUTION MERGE",
+    "scripts": [
+      "tests/fixture.lua",
+      "validation/registry.lua",
+      "mods/SuQingMusicCollections/42/media/lua/shared/SQMusic/Catalog.lua",
+      "mods/SuQingMusicCollections/42/media/lua/shared/SQMusic/Text.lua",
+      "mods/SuQingMusicCollections/42/media/lua/shared/SQMusic/Core.lua",
+      "D:/steam/steamapps/common/ProjectZomboid/media/lua/server/Items/SuburbsDistributions.lua",
+      "mods/SuQingMusicCollections/42/media/lua/server/SQMusic/Loot.lua",
+      "tests/loot.lua"
+    ]
+  }
+]

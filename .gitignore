@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.class
+*.jar
+*.zip
+audit/
+validation/
+releases/
+.local-build/
+.local-config.json

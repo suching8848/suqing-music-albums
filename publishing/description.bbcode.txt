@@ -1,0 +1,49 @@
+[h1]蘇清的音乐专辑 | SuQing's Music Albums[/h1]
+为 True Music 增加多曲磁带和黑胶专辑。整理已有单曲，或在搜刮时找到作者精选，让播放器连续播放整张歌单。
+适用 Project Zomboid B42.21 单人；当前版本 1.1.0。
+
+[h2]两种获取方式[/h2]
+[list]
+[*]作者精选：在原本会刷新已适配磁带、黑胶的地点找到完整专辑。八个多曲作者／合作组，磁带和黑胶各一盘，共十六种。
+[*]自制专辑：在角色背包中多选至少两首同介质的不同单曲，右键整理。作者不限，磁带与黑胶分别制作；投入前可预览并确认。
+[*]自制专辑可拆回原投入单曲，保留原物品信息；搜刮到的作者精选不可拆出全套单曲。
+[/list]
+同作者显示作者名，混搭显示“自制专辑”，曲目行显示作者。每盘重量固定 0.02，等于当前原单张，不随曲数增加。
+刷新沿用该地点原单件磁带／黑胶权重，不加额外概率倍率，不按歌曲数量放大，也不回填已搜索的容器。新增专辑类型会参与原有随机抽取。
+
+[h2]设备选项里的歌单[/h2]
+沿用原操作插入和弹出磁带／黑胶。打开设备选项，歌单模块同步出现，可折叠、滚动查看和点播。
+支持上一首、下一首、停止、顺序播放一次、列表循环、单曲循环与每轮不重复的随机播放。关闭窗口仍可播放。
+多槽设备分别保留歌单、曲目和模式；重新读档后暂停，保留选曲与模式。没有秒数续播或进度拖动。
+
+[h2]随身听与耳机[/h2]
+随身听及接耳机的随身播放器采用本地 2D 收听路径，受管音乐不创建公共播放记录或引怪声事件。摘耳机、关机、取电池、丢弃设备等会停止。
+普通音箱外放、地面音响及车载音响保留对应的外放与引怪规则。
+
+[h2]前置与音源[/h2]
+必需：[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3397198968]True Music B42[/url]，Mod ID：truemusic。
+按需另行订阅并启用已适配音乐包；本项目不附带歌曲音频：
+[list]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3554671997]GIRLS BAND CRY Music[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3585009083]Poppin'Party music b42[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3585014312]MyGO!!!!! / Ave Mujica / sumimi（Anime music b42）[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3654879576]Roselia Music[/url]
+[/list]
+也识别 True Music 自带的主题曲载体。未安装的音乐包无法提供对应歌曲与精选专辑；其他 True Music 音乐包不会自动加入当前目录。
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3832223928]蘇清的补丁合集[/url]中的 True Music 耳机补丁为可选配套，不是本模组的必需前置。
+
+[h2]兼容与停用[/h2]
+Mod ID 固定为 SuQingMusicCollections。保留早期“蘇清的音乐合集”的物品 ID 与 schema 1 数据；更名无需换物品。
+Poppin'Party 的 PPP75 上游音源引用目前缺文件，本目录将其标记不可用，不猜测替换其他录音。
+停用前从所有设备弹出专辑，并拆回想保留的自制专辑。请避免同时保留本地和工坊的同 ID 副本。
+
+[h2]English[/h2]
+Single-player True Music extension for B42.21. Find premade artist selections in existing tape/vinyl loot locations, or combine different owned singles of the same medium into a custom album. Artists can be mixed. Custom albums can be split back into their input items; premade selections cannot.
+Each album weighs 0.02. Loot follows original single-item weights without an extra multiplier. An integrated device-options playlist offers selection, previous/next, stop, play once, list loop, single repeat and shuffle. Closing the UI keeps playback running; reload starts paused with the track and mode retained.
+Walkmans and carried devices using headphones play managed music locally with no public playback record or zombie sound event. Ordinary public speakers and vehicle/world devices retain public sound behavior.
+Requires True Music B42. Install and enable whichever of the four reviewed music packs you want; this is not an automatic importer for all True Music addons. No original recordings, upstream models or textures are bundled. The optional headphone subpatch is available in SuQing's Patch Collection.
+Keep Mod ID SuQingMusicCollections. Eject every album and split custom albums before removal. PPP75 remains unavailable because its upstream sound definition references a missing file.
+
+感谢 True Music 与原音乐包作者。歌曲及上游素材权利归各自权利人。本项目仅提供独立扩展与兼容映射；封面和图标由内置 image_gen 依据用户角色设定及既有蘇清模组风格制作。
+
+[url=https://github.com/suching8848/suqing-music-albums]Git源码 / Source[/url]

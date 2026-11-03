@@ -1,0 +1,16 @@
+{
+  "font": "D:\\steam\\steamapps\\workshop\\content\\108600\\3556544454\\mods\\B42Trans_CN_As1\\42.0\\media\\fonts\\zomboidSmallCN.fnt",
+  "sha256": "c72e817fdc21da8e2b97f627f94adf96536c67eb7c6d5e5597acf5d9821383e7",
+  "owningMod": "B42Trans_CN",
+  "fontEnum": "UIFont.Small",
+  "glyphCount": 31208,
+  "sourceTrackTitles": 289,
+  "coveredOriginalTrackTitles": 289,
+  "sourceArtistNames": 14,
+  "coveredOriginalArtistNames": 14,
+  "missingTitleGlyphs": {},
+  "missingArtistGlyphs": {},
+  "defaultCNPolicy": "Preserve the upstream original title/reviewed artist name when its glyphs are present; otherwise use the readable CN label, then the source English label.",
+  "runtimeUTF8Policy": "Lua text is generated as ASCII-safe UTF-8 byte escapes for the installed Kahlua lexer.",
+  "scope": "Static glyph-map coverage of the currently enabled CN font. This does not claim visual in-game acceptance."
+}

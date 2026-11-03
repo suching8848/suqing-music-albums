@@ -1,0 +1,28 @@
+{
+  "tool": "built-in image_gen",
+  "date": "2026-11-03",
+  "cover": {
+    "prompt": "Use case: stylized-concept. Asset: one finished square Steam Workshop mod cover for 蘇清的音乐专辑. Reference image 1 is the ONLY character identity authority, the user's original adult silver-white dragon woman. Reference images 2 and 3 are style/layout authorities only: match their detailed crisp anime/pixel hybrid, warm amber/purple lighting and embroidered purple/gold title plaque. Do not copy their apron, pump, or trading props.\nDepict exactly the same adult woman, same delicate face/proportions, lavender eyes, long flowing silver-white hair, white rosette/tassel ornament, paired ridged light dragon horns, pale lavender membrane wings, long white SCALED dragon tail. Keep her recognizable white/lavender embroidered dress; relaxed seated listening pose in a cozy dusk wooden music room, wearing wired over-ear headphones connected to a small vintage cassette Walkman. A black vinyl record with lavender label and neatly stacked cassette albums on the desk clearly communicate multi-song albums. Show a corner of a turntable but no loudspeaker. Purple dusk through window, amber lamp, gentle smile; no blue spirit necessary. Hands anatomically natural, moderate waist-up/three-quarter framing with visible tail curving beside chair and wing edges. Character dominates upper 70%.\nBottom 28% ornate deep purple embroidered rectangular title plaque with gold/lavender border, floral motifs and restrained music-note motifs, in exactly the same brand style as references 2/3. Exact large Chinese text in TWO lines:\n蘇清的\n音乐专辑\nSmall centered line below: SINGLE PLAYER\nKeep all lettering accurate, readable and inside safe margins. Rich warm wood, lavender shadows, crisp refined illustration; opaque square artwork at high resolution. No game version, no mod version, no numerical text, no Build/B42, no watermark, no logos, no extra people, no weapons. Do not add extra horns/wings/tails.",
+    "source": "C:/Users/15792/.codex/generated_images/01a19afe-05b5-7772-b43b-0fb4ab3322db/exec-3fd820b7-5f29-4add-ba5c-427ebb9ed3c3.png"
+  },
+  "assets": [
+    {
+      "key": "mod_icon",
+      "prompt": "Use case: stylized-concept. Asset: a single square transparent PNG mod icon for SuQing's Music Albums. Reference image is the user's exact adult white dragon woman identity. Draw a crisp anime/pixel hybrid compact bust portrait, long silver-white hair, lavender eyes, TWO pale ridged dragon horns, original white flower rosette, small lavender wings visible behind shoulders; recognizable same adult face. She wears purple wired headphones and holds one lavender cassette, one black vinyl disc partly behind it. White and pale purple palette, warm gold accents, carefully simplified silhouette readable at 64-128px, balanced centered composition, subtle dark-purple outline. All objects contained with generous transparent padding. Genuine transparent background, no scenery, no plaque, no text, no letters, no watermark, no extra people or extremities. Do not add square background/frame."
+    },
+    {
+      "key": "cassette_icon",
+      "prompt": "Use case: stylized-concept. Asset: ONE single inventory item icon, a finished cassette music album for an isometric survival game, square transparent PNG. A lavender and ivory audio cassette in a clear slim case, two obvious dark reel windows and tape strip; three-quarter slightly isometric front view. Small white coiled flower / dragon-scale motif on the label echoes SuQing purple/gold brand; two tiny gold music notes, no readable letters. Crisp deliberate pixel-art hybrid edge treatment, strong silhouette, clean shading, dark violet outline, white-lavender with restrained gold trim. Designed to be legible at 64x64px. One item only, centered, all edges within generous transparent padding. Genuine transparent alpha background, no tabletop, no hands, no character, no scene, no readable text, no watermark."
+    },
+    {
+      "key": "vinyl_icon",
+      "prompt": "Use case: stylized-concept. Asset: ONE single inventory item icon, a finished vinyl music album for an isometric survival game, square transparent PNG. A clearly round black grooved vinyl record sliding partly from one ivory and lavender square record sleeve, three-quarter slightly isometric view. Lavender circular center label with tiny white coiled-flower motif; matching SuQing purple/gold brand. A subtle lavender dragon-scale motif on sleeve, no character and no readable letters. Crisp deliberate pixel-art hybrid edges, strong simple silhouette, clean shading, dark violet outline, restrained gold trim. Designed legible at 64x64px. One album only, centered, all edges within generous transparent padding. Genuine transparent alpha background, no tabletop, no hands, no scene, no text, no watermark."
+    }
+  ],
+  "references": [
+    "C:/Users/15792/Desktop/图图/ChatGPT 图像 2026年10月26日 01_13_03.png",
+    "CodexRepos/suqing-sprinkler-fertilizer/publishing/preview.png",
+    "CodexRepos/suqing-mfs-fixed-buyback/publishing/preview.png"
+  ],
+  "notes": "Character identity from user concept. Brand styling from approved covers. Export only rescales/fits original PNGs; preserves alpha."
+}

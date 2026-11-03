@@ -1,0 +1,11 @@
+{
+  "required": [{"workshop_id": "3397198968", "mod_id": "truemusic", "name": "True Music B42"}],
+  "supported_audio_packs_optional": [
+    {"workshop_id": "3554671997", "mod_id": "GIRLS BAND CRY Music"},
+    {"workshop_id": "3585009083", "mod_id": "Poppin'Party music b42"},
+    {"workshop_id": "3585014312", "mod_id": "Anime music b42"},
+    {"workshop_id": "3654879576", "mod_id": "Roselia Music"}
+  ],
+  "optional_compatibility": [{"workshop_id": "3832223928", "mod_id": "Codex_TrueMusic_Headphones_4221"}],
+  "note": "Only True Music is a hard dependency. Missing music packs cannot supply their songs. This file is a preparation checklist; it does not set online Steam dependencies."
+}

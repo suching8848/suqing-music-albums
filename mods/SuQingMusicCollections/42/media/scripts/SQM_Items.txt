@@ -1,0 +1,182 @@
+module SQMusic
+{
+    item CassetteDiamondDust
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.02,
+        Icon = SQM_CassetteAlbum,
+        WorldStaticModel = Tsarcraft.TCTape2,
+        OnCreate = SQMusic.onCreateAlbum,
+    }
+
+    item VinylDiamondDust
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.02,
+        Icon = SQM_VinylAlbum,
+        WorldStaticModel = Tsarcraft.TCVinylrecord2,
+        OnCreate = SQMusic.onCreateAlbum,
+    }
+
+    item CassetteTogenashiTogeari
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.02,
+        Icon = SQM_CassetteAlbum,
+        WorldStaticModel = Tsarcraft.TCTape2,
+        OnCreate = SQMusic.onCreateAlbum,
+    }
+
+    item VinylTogenashiTogeari
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.02,
+        Icon = SQM_VinylAlbum,
+        WorldStaticModel = Tsarcraft.TCVinylrecord2,
+        OnCreate = SQMusic.onCreateAlbum,
+    }
+
+    item CassettePoppinParty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.02,
+        Icon = SQM_CassetteAlbum,
+        WorldStaticModel = Tsarcraft.TCTape2,
+        OnCreate = SQMusic.onCreateAlbum,
+    }
+
+    item VinylPoppinParty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.02,
+        Icon = SQM_VinylAlbum,
+        WorldStaticModel = Tsarcraft.TCVinylrecord2,
+        OnCreate = SQMusic.onCreateAlbum,
+    }
+
+    item CassetteAveMujica
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.02,
+        Icon = SQM_CassetteAlbum,
+        WorldStaticModel = Tsarcraft.TCTape2,
+        OnCreate = SQMusic.onCreateAlbum,
+    }
+
+    item VinylAveMujica
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.02,
+        Icon = SQM_VinylAlbum,
+        WorldStaticModel = Tsarcraft.TCVinylrecord2,
+        OnCreate = SQMusic.onCreateAlbum,
+    }
+
+    item CassetteMyGO
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.02,
+        Icon = SQM_CassetteAlbum,
+        WorldStaticModel = Tsarcraft.TCTape2,
+        OnCreate = SQMusic.onCreateAlbum,
+    }
+
+    item VinylMyGO
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.02,
+        Icon = SQM_VinylAlbum,
+        WorldStaticModel = Tsarcraft.TCVinylrecord2,
+        OnCreate = SQMusic.onCreateAlbum,
+    }
+
+    item Cassettesumimi
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.02,
+        Icon = SQM_CassetteAlbum,
+        WorldStaticModel = Tsarcraft.TCTape2,
+        OnCreate = SQMusic.onCreateAlbum,
+    }
+
+    item Vinylsumimi
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.02,
+        Icon = SQM_VinylAlbum,
+        WorldStaticModel = Tsarcraft.TCVinylrecord2,
+        OnCreate = SQMusic.onCreateAlbum,
+    }
+
+    item CassetteRoselia
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.02,
+        Icon = SQM_CassetteAlbum,
+        WorldStaticModel = Tsarcraft.TCTape2,
+        OnCreate = SQMusic.onCreateAlbum,
+    }
+
+    item VinylRoselia
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.02,
+        Icon = SQM_VinylAlbum,
+        WorldStaticModel = Tsarcraft.TCVinylrecord2,
+        OnCreate = SQMusic.onCreateAlbum,
+    }
+
+    item CassetteRoseliaSakuraAyane
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.02,
+        Icon = SQM_CassetteAlbum,
+        WorldStaticModel = Tsarcraft.TCTape2,
+        OnCreate = SQMusic.onCreateAlbum,
+    }
+
+    item VinylRoseliaSakuraAyane
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.02,
+        Icon = SQM_VinylAlbum,
+        WorldStaticModel = Tsarcraft.TCVinylrecord2,
+        OnCreate = SQMusic.onCreateAlbum,
+    }
+
+    item CassetteCustom
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.02,
+        Icon = SQM_CassetteAlbum,
+        WorldStaticModel = Tsarcraft.TCTape2,
+        OnCreate = SQMusic.onCreateAlbum,
+    }
+
+    item VinylCustom
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.02,
+        Icon = SQM_VinylAlbum,
+        WorldStaticModel = Tsarcraft.TCVinylrecord2,
+        OnCreate = SQMusic.onCreateAlbum,
+    }
+}

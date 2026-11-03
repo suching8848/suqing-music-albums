@@ -1,0 +1,120 @@
+{
+  "tool": "built-in image_gen",
+  "date": "2026-11-03",
+  "export": "PNG only: contain resize and transparent canvas; no crop or painted changes",
+  "assets": [
+    {
+      "file": "art/cover-source.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "sha256": "fc8ae5f79077e7edc089579ab68d4accaca42e3675627618edf0abbdbc998342"
+    },
+    {
+      "file": "art/mod-icon-source.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "sha256": "d8bf145a35408041a6e34170f6558bbb77e4eff536af8d2f77c0694792b04711",
+      "alpha_range": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "art/cassette-icon-source.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "sha256": "5dde972dfc3b991c65590fa1e44943254e77142e1560ccf97aeaacb498d6c459",
+      "alpha_range": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "art/vinyl-icon-source.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "sha256": "051c716e04b396495b81e6563610060a7fe6b92d6249c171d4384b466e70868a",
+      "alpha_range": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "publishing/preview.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "sha256": "37a2ac2d2635b51252a5c27a24c82d896ae904c396df54a627e2999916066a1f",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "file": "mods/SuQingMusicCollections/42/poster.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "sha256": "37a2ac2d2635b51252a5c27a24c82d896ae904c396df54a627e2999916066a1f",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "file": "mods/SuQingMusicCollections/42/icon.png",
+      "dimensions": [
+        256,
+        256
+      ],
+      "mode": "RGBA",
+      "sha256": "e5bdde5eb81a97cf43863ac83d85b3551df18336fa30441303e3b1c100eee9b2",
+      "alpha_range": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "mods/SuQingMusicCollections/42/media/textures/Item_SQM_CassetteAlbum.png",
+      "dimensions": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "sha256": "685265e05dd5b46525c0f88e550f01d1719760fae05f712639b6519cd1c649a5",
+      "alpha_range": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "mods/SuQingMusicCollections/42/media/textures/Item_SQM_VinylAlbum.png",
+      "dimensions": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "sha256": "c0585e726fcb8cb4feaf6c3fe3d14158cacb81ca7b2c2363897a42d1d2c0c570",
+      "alpha_range": [
+        0,
+        255
+      ]
+    }
+  ]
+}
