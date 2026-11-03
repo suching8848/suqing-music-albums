@@ -11,8 +11,8 @@ The user authorized this unified Git/Steam update on 2026-11-03. Source and publ
 表中分别记录源码版本和个人安装版本。正常实现所需效果的个人组合可保留：普通容器1.0.0继续配现有穿戴桥接，灌溉个人0.3.2-rc.1与源码1.0.0分别记录；不为版本一致而覆盖运行目录。库存转移1.2.1和PZO汉化1.1.0源码已同步已部署文件。
 Source and personal versions are separate columns. Working personal combinations may remain unchanged: ordinary containers retain 1.0.0 plus the existing wearable bridge, and personal irrigation 0.3.2-rc.1 is recorded separately from source 1.0.0. No runtime replacement is implied by version parity. Inventory Transfer 1.2.1 and PZO translation 1.1.0 sources match the deployed files.
 
-补丁源码合集33项的工坊分包为25个合集可选子模组、3个EX同包配套子模组及5个暂缓公开的上游完整输出案例。九个主模组分别发布。音乐、负重和25项合集已于11月3日提交成功并公开查询核验；其余7个既有模组条目已查询确认保持公开且内容元数据未变。没有重新下载远端逐文件核对，也不将发布核验当作游戏验收。
-The 33 source patches are distributed as 25 optional collection submods, three EX-package companions and five held upstream-payload cases. Nine main mods have their own items. Music, Weight Training and the 25-entry collection passed native submission and public-query verification on November 3. The other seven existing mod items were queried public and unchanged. This is not a remote per-file download or gameplay acceptance.
+补丁源码合集33项的工坊分包为25个合集可选子模组、3个EX同包配套子模组及5个暂缓公开的上游完整输出案例。九个主模组分别发布。音乐、负重和25项合集已于11月3日提交成功并公开查询核验；普通容器另同步包内满载拾取限制说明，Lua、配方和玩法不变；其余6个既有模组条目已查询确认保持公开且内容元数据未变。没有重新下载远端逐文件核对，也不将发布核验当作游戏验收。
+The 33 source patches are distributed as 25 optional collection submods, three EX-package companions and five held upstream-payload cases. Nine main mods have their own items. Music, Weight Training and the 25-entry collection passed native submission and public-query verification on November 3. Ordinary containers also received a package README update about loaded-container pickup limits, with no Lua, recipe or gameplay change. The other six existing mod items were queried public and unchanged. This is not a remote per-file download or gameplay acceptance.
 
 | 仓库 / Repository | 中英名称 / Bilingual title | Mod ID 数 / Count |
 | --- | --- | ---: |

@@ -105,7 +105,7 @@
       "load_after_raw": "FantasyWorkshopVS42_4.0,4123567854998,TheyKnewContinued,BackpackSystemB42,SuPrimitiveEquipment,RaccoonCityB42,Neat_Crafting,CleanUI,Codex_InventoryTransferPerformance_4221,TarkovCombatStims,CodexCBRTIndependent_4221,HavenFall",
       "workshop_item_id": "3823988025",
       "publication_group": "independent_main_mod",
-      "publication_status": "public_unchanged_verified_2026-11-03_query",
+      "publication_status": "verified_public_2026-11-03_documentation_only_update",
       "gameplay_validation": "Keep the working personal 1.0.0 plus wearable bridge; source 1.0.1 is recorded separately and is not deployed for version parity."
     },
     {
@@ -799,5 +799,5 @@
     }
   ],
   "publication_verification_date_bjt": "2026-11-03",
-  "publication_verification_boundary": "Three successful native submits and exact frozen metadata/text readback; seven existing mod items queried unchanged; no remote per-file download or gameplay acceptance."
+  "publication_verification_boundary": "Four successful native submits: two new main mods, the 25-entry collection and a documentation-only container package update. Six other existing mod items queried unchanged. No remote per-file download or gameplay acceptance."
 }
