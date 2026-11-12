@@ -1,5 +1,9 @@
 # 蘇清的音乐专辑 / SuQing's Music Albums
 
+## 42.22.2 离线适配候选
+
+`1.1.1-rc.1` 是本地候选，适用单人游戏的 B42.21–42.22 分支。保留 18 个自定义载体 ID、原曲来源和 schema 1。 42.22.2 游戏内验收待完成。下方保留已发布版本说明。
+
 2026-11-03 已公开发布：[创意工坊 3832881848](https://steamcommunity.com/sharedfiles/filedetails/?id=3832881848) · [Git 源码](https://github.com/suching8848/suqing-music-albums)。上传回调与公开查询已核验；发布状态与个人安装及游戏内验收分别记录。 音乐实际听感、僵尸反应及新美术显示仍待用户验收。
 
 单人扩展，Mod ID `SuQingMusicCollections`，版本 1.1.0，适用 B42.21，依赖当前 True Music B42（`truemusic`，工坊 3397198968）。展示名改为“蘇清的音乐专辑”，目录、Mod ID、物品 ID 和 schema 1 均保持不变。复用已安装的四个音乐包及其原始 Ogg 音源；不包含、下载或重编码音源，不修改 Workshop 原件。来源和权利范围见 [NOTICE.md](NOTICE.md)，英文说明见 [README.en.md](README.en.md)。
