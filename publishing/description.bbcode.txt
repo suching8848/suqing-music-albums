@@ -1,6 +1,6 @@
 [h1]蘇清的音乐专辑 | SuQing's Music Albums[/h1]
 为 True Music 增加多曲磁带和黑胶专辑。整理已有单曲，或在搜刮时找到作者精选，让播放器连续播放整张歌单。
-适用 Project Zomboid B42.21 单人；当前版本 1.1.0。
+适用 B42.21–42.22 单人，版本 1.1.1-rc.1。B42.22.2 的 True Music 设备和载体读回已离线通过，实际播放待验收。
 
 [h2]两种获取方式[/h2]
 [list]
@@ -38,7 +38,7 @@ Poppin'Party 的 PPP75 上游音源引用目前缺文件，本目录将其标记
 停用前从所有设备弹出专辑，并拆回想保留的自制专辑。请避免同时保留本地和工坊的同 ID 副本。
 
 [h2]English[/h2]
-Single-player True Music extension for B42.21. Find premade artist selections in existing tape/vinyl loot locations, or combine different owned singles of the same medium into a custom album. Artists can be mixed. Custom albums can be split back into their input items; premade selections cannot.
+Single-player True Music extension for B42.21–42.22, version 1.1.1-rc.1. True Music device and media readback passed offline on B42.22.2; playback testing is pending. Find premade artist selections in existing tape/vinyl loot locations, or combine different owned singles of the same medium into a custom album. Artists can be mixed. Custom albums can be split back into their input items; premade selections cannot.
 Each album weighs 0.02. Loot follows original single-item weights without an extra multiplier. An integrated device-options playlist offers selection, previous/next, stop, play once, list loop, single repeat and shuffle. Closing the UI keeps playback running; reload starts paused with the track and mode retained.
 Walkmans and carried devices using headphones play managed music locally with no public playback record or zombie sound event. Ordinary public speakers and vehicle/world devices retain public sound behavior.
 Requires True Music B42. Install and enable whichever of the four reviewed music packs you want; this is not an automatic importer for all True Music addons. No original recordings, upstream models or textures are bundled. The optional headphone subpatch is available in SuQing's Patch Collection.
