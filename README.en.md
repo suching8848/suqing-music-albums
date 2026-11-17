@@ -4,7 +4,7 @@
 
 ## 42.22.2 offline compatibility candidate
 
-`1.1.1-rc.1` is a local candidate for B42.21–42.22 single-player. Preserves the 18 custom media IDs, source tracks, and schema 1. In-game testing on 42.22.2 is pending. The release notes below cover the published version.
+The earlier `1.1.1-rc.1` release is for B42.21–42.22 single-player. Preserves the 18 custom media IDs, source tracks, and schema 1. In-game testing on 42.22.2 is pending. The release notes below cover the published version.
 
 Published publicly on 2026-11-03: [Workshop 3832881848](https://steamcommunity.com/sharedfiles/filedetails/?id=3832881848) · [Git source](https://github.com/suching8848/suqing-music-albums). Native submit and public query checks passed; publication, local installation and gameplay acceptance are separate. Actual audio, zombie response and new artwork remain subject to user gameplay checks.
 

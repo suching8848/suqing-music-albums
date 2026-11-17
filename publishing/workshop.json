@@ -1,6 +1,6 @@
 {
   "title": "蘇清的音乐专辑 | SuQing's Music Albums",
-  "version": "1.1.1-rc.1",
+  "version": "1.1.2-rc.1",
   "publishedfileid": "3832881848",
   "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3832881848",
   "github": "https://github.com/suching8848/suqing-music-albums",
@@ -12,6 +12,6 @@
   ],
   "visibility": "public",
   "status": "verified_public",
-  "verified_at": "2026-11-12T16:19:53.769813+08:00",
-  "content_tree_sha256": "5801ba409c7bacb82efeb9a87dd80e753ded0e3bcb323baf7962f8c50390a062"
+  "verified_at": "2026-11-18T03:01:27.749116+08:00",
+  "content_tree_sha256": "3c4f3d911912d3d5903e8090708a7dd691df9bce4641ac2ded5aa17c02b36993"
 }

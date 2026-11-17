@@ -47,3 +47,6 @@ Keep Mod ID SuQingMusicCollections. Eject every album and split custom albums be
 感谢 True Music 与原音乐包作者。歌曲及上游素材权利归各自权利人。本项目仅提供独立扩展与兼容映射；封面和图标由内置 image_gen 依据用户角色设定及既有蘇清模组风格制作。
 
 [url=https://github.com/suching8848/suqing-music-albums]Git源码 / Source[/url]
+
+1.1.2-rc.1 修复从地面和其他容器拖入 True Music 播放器。角色会先拾取介质，再前往设备插入。
+1.1.2-rc.1 picks up dragged media from the ground or another container before inserting it into a True Music player.
