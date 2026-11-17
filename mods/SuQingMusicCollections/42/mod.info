@@ -1,7 +1,7 @@
 name=蘇清的音乐专辑
 id=SuQingMusicCollections
 author=蘇清
-modversion=1.1.1-rc.1
+modversion=1.1.2-rc.1
 require=truemusic
 loadModAfter=truemusic,Codex_TrueMusic_Headphones_4221,GIRLS BAND CRY Music,Poppin'Party music b42,Anime music b42,Roselia Music
 versionMin=42.21

@@ -1,5 +1,7 @@
 require "SQMusic/Core"
 require "RadioCom/ISTCBoomboxAction"
+require "RadioCom/RadioWindowModules/TCRWMMedia"
+require "TimedActions/ISInventoryTransferUtil"
 
 -- All audio handles are session-local. Only carrier descriptors and playlist
 -- choices enter ModData; no Java object/audio handle is serialized.
@@ -354,9 +356,45 @@ function P.pauseSaved(character)
     pauseInventory(character:getInventory())
 end
 
+local function installMediaTransfer()
+    local panel = TCRWMMedia
+    if not panel or not panel.addMediaAux then return end
+    local addMediaAux = panel.addMediaAux
+
+    local function afterTransfer(window, player, device, item, slot)
+        if window.player == player and window.device == device and SQMusic.owned(player, item)
+            and window:verifyItem(item, slot) then
+            addMediaAux(window, item, slot)
+        end
+    end
+
+    function panel:addMediaAux(item, slot)
+        local player, device = self.player, self.device
+        if not player or not device or not item then return end
+        if SQMusic.owned(player, item) then return addMediaAux(self, item, slot) end
+
+        local source = item:getContainer()
+        if not source or not source:contains(item) or not self:verifyItem(item, slot) then return end
+
+        local worldItem = item:getWorldItem()
+        if worldItem then
+            local square = worldItem:getSquare()
+            if not square or not luautils.walkAdj(player, square, true) then return end
+        elseif not luautils.walkToContainer(source, player:getPlayerNum()) then
+            return
+        end
+
+        -- Wait for the same item to reach inventory before planning the device walk.
+        local transfer = ISInventoryTransferUtil.newInventoryTransferAction(player, item, source, player:getInventory())
+        transfer:setOnComplete(afterTransfer, self, player, device, item, slot)
+        ISTimedActionQueue.add(transfer)
+    end
+end
+
 local function install()
     if installed or isClient() or isServer() then return end
     installed = true
+    installMediaTransfer()
     local Action = ISTCBoomboxAction
     local oldFullType = TCMusic.getMediaFullType
     TCMusic.getMediaFullType = function(carrier)
@@ -376,15 +414,16 @@ local function install()
     local addMedia = Action.performAddMedia
     function Action:performAddMedia()
         local item = self.secondaryItem
+        -- Upstream writes the slot before its obsolete external-container call.
+        if not SQMusic.owned(self.character, item) or not self:isValidAddMedia() then return end
         local state = item and SQMusic.state(item)
         local captured = state and SQMusic.copy(state)
-        local carrier = item and item:getType()
-        local container = item and item:getContainer()
-        local allowed = self:isValidAddMedia()
+        local carrier = item:getType()
+        local container = item:getContainer()
         addMedia(self)
         local data = music(self.device)
         local vehicleCommitted = data and data.deviceType == "VehiclePart" and container and not container:contains(item)
-        if allowed and captured and (vehicleCommitted or carrierFor(self.device, self.mediaSlot) == carrier) then
+        if captured and (vehicleCommitted or carrierFor(self.device, self.mediaSlot) == carrier) then
             data.sqmusicSlots = data.sqmusicSlots or {}
             data.sqmusicSlots[slotFor(self.device, self.mediaSlot)] = {carrierType = carrier, fullType = item:getFullType(), state = captured}
             if vehicleCommitted then data.mediaItem = carrier end

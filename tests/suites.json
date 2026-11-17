@@ -156,5 +156,29 @@
       "mods/SuQingMusicCollections/42/media/lua/server/SQMusic/Loot.lua",
       "tests/loot.lua"
     ]
+  },
+  {
+    "name": "B42 NATIVE TRANSFER FOR TRUE MUSIC CARRIERS",
+    "scripts": [
+      "tests/fixture.lua",
+      "validation/registry.lua",
+      "D:/steam/steamapps/common/ProjectZomboid/media/lua/shared/ISBaseObject.lua",
+      "D:/steam/steamapps/common/ProjectZomboid/media/lua/shared/TimedActions/ISBaseTimedAction.lua",
+      "D:/steam/steamapps/workshop/content/108600/3397198968/mods/TrueMusic_b42/42/media/lua/shared/TCMusicDefenitions.lua",
+      "D:/steam/steamapps/workshop/content/108600/3397198968/mods/TrueMusic_b42/42/media/lua/client/TCMusicClientFunctions.lua",
+      "D:/steam/steamapps/workshop/content/108600/3397198968/mods/TrueMusic_b42/42/media/lua/client/RadioCom/ISTCBoomboxAction.lua",
+      "D:/steam/steamapps/workshop/content/108600/3397198968/mods/TrueMusic_b42/42/media/lua/client/TCTickCheckMusic.lua",
+      "tests/media_transfer_fixture.lua",
+      "D:/steam/steamapps/common/ProjectZomboid/media/lua/shared/TimedActions/ISTransferAction.lua",
+      "D:/steam/steamapps/common/ProjectZomboid/media/lua/client/TimedActions/ISInventoryTransferAction.lua",
+      "D:/steam/steamapps/common/ProjectZomboid/media/lua/shared/TimedActions/ISInventoryTransferUtil.lua",
+      "D:/steam/steamapps/common/ProjectZomboid/media/lua/client/RadioCom/RadioWindowModules/RWMPanel.lua",
+      "D:/steam/steamapps/workshop/content/108600/3397198968/mods/TrueMusic_b42/42/media/lua/client/RadioCom/RadioWindowModules/TCRWMMedia.lua",
+      "mods/SuQingMusicCollections/42/media/lua/shared/SQMusic/Catalog.lua",
+      "mods/SuQingMusicCollections/42/media/lua/shared/SQMusic/Text.lua",
+      "mods/SuQingMusicCollections/42/media/lua/shared/SQMusic/Core.lua",
+      "mods/SuQingMusicCollections/42/media/lua/client/SQMusic/Playback.lua",
+      "tests/media_transfer.lua"
+    ]
   }
 ]

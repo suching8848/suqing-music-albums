@@ -1,5 +1,7 @@
 # SuQing's Music Albums
 
+1.1.2-rc.1 picks up dragged media from the ground or another container before inserting it into a True Music player.
+
 ## 42.22.2 offline compatibility candidate
 
 `1.1.1-rc.1` is a local candidate for B42.21–42.22 single-player. Preserves the 18 custom media IDs, source tracks, and schema 1. In-game testing on 42.22.2 is pending. The release notes below cover the published version.
